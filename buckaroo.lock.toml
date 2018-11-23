@@ -1,4 +1,4 @@
-manifest = "0a54cd0d6ab6799b60f6af0a768b23dcff7a3d6e285116a744ede4053bf5e606"
+manifest = "90163c326abd8c438a0f996ec3ba9f9e1b82d5691a45f1ddcba89645df932215"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/mapbox-geometry.hpp"
@@ -10,16 +10,20 @@ target = "//:rapidjson"
 
 [[lock]]
 name = "github.com/buckaroo-pm/Catch2"
-revision = "65ab25beb9080c77a7aa0edbfab1812a06e174d1"
+version = "1.12.1"
+revision = "3974bb1cc2d5a5b800b38b09907911213153b468"
 
 [[lock]]
 name = "github.com/buckaroo-pm/mapbox-geometry.hpp"
+version = "branch=master"
 revision = "dc886c9705ebec3b4c8ddf3b305537a450267944"
 
 [[lock]]
 name = "github.com/buckaroo-pm/mapbox-rapidjson"
+version = "branch=master"
 revision = "44ccecfb229c4862ef4fa924a4841749196abfc7"
 
 [[lock]]
 name = "github.com/buckaroo-pm/mapbox-variant"
+version = "branch=master"
 revision = "e735b7c1be9fe58e364685e6093628644776baf3"
